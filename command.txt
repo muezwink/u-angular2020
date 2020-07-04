@@ -1,0 +1,42 @@
+mraz@DESKTOP-2G6QFBR MINGW64 /e/project-learn/udemy/angular-2020
+$ node --version
+v10.15.3
+
+mraz@DESKTOP-2G6QFBR MINGW64 /e/project-learn/udemy/angular-2020
+$ npm --version
+6.4.1
+
+mraz@DESKTOP-2G6QFBR MINGW64 /e/project-learn/udemy/angular-2020
+$ npm install -g @angular/cli@latest
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+
+> @angular/cli@10.0.1 postinstall E:\project-learn\udemy\angular-2020\node_modules\@angular\cli
+> node ./bin/postinstall/script.js
+
+? Would you like to share anonymous usage data with the Angular Team at Google under
+Google’s Privacy Policy at https://policies.google.com/privacy? For more details and
+how to change this setting, see http://angular.io/analytics. No
+npm WARN saveError ENOENT: no such file or directory, open 'E:\project-learn\udemy\angular-2020\package.json'
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN enoent ENOENT: no such file or directory, open 'E:\project-learn\udemy\angular-2020\package.json'
+npm WARN angular-2020 No description
+npm WARN angular-2020 No repository field.
+npm WARN angular-2020 No README data
+npm WARN angular-2020 No license field.
+
++ @angular/cli@10.0.1
++ g@2.0.1
+added 270 packages from 207 contributors and audited 270 packages in 39.482s
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+
+mraz@DESKTOP-2G6QFBR MINGW64 /e/project-learn/udemy/angular-2020
+$ npm install -g npm
+C:\Users\mraz\AppData\Roaming\npm\npm -> C:\Users\mraz\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+C:\Users\mraz\AppData\Roaming\npm\npx -> C:\Users\mraz\AppData\Roaming\npm\node_modules\npm\bin\npx-cli.js
++ npm@6.14.5
+added 435 packages from 873 contributors in 13.669s
+
+mraz@DESKTOP-2G6QFBR MINGW64 /e/project-learn/udemy/angular-2020
+$ng new my-first-app
